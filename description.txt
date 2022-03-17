@@ -1,0 +1,6 @@
+The description of the functions are described in libsys.c file where every function represents an activity of a real library.
+libsys.h contains all the definition of the status values, structures and error codes that are used for better understanding.
+simple_driver.c is a testing file that gives several inputs and expects some outputs in order to check if libsys.c functions well.
+To compile, use 'gcc libsys.c simple_driver.c -o a.out' command.
+The output produced by the simple_driver.c file should be similar to output.pdf.
+   
